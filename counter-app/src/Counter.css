@@ -1,0 +1,39 @@
+body{
+    background-color: gray;
+    box-sizing: border-box;
+}
+
+.Counter_app{
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    margin: auto;
+    margin-top:70px;
+   height: 300px;
+   width: 300px;
+   box-shadow: 0px 0px 4px 2px;
+   background-color: aquamarine;
+}
+#btn1{
+    height: 40px;
+    width: 120px;
+    margin-right: 20px;
+    text-align: center;
+    font-size: large;
+   background-color: chartreuse;
+}
+#btn2{
+    height: 40px;
+    width: 120px;
+    margin-left: 20px;
+    text-align: center;
+    font-size: large;
+   background-color: chartreuse;
+}  
+#number{
+    color: red;
+    font-size: x-large;
+    font-weight: 700;
+}
