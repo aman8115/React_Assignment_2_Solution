@@ -1,10 +1,14 @@
-import Counter from "./Counter";
+
+import Instagram from "./Instagram";
 
 
 function App() {
 return(
   <div>
-    <Counter></Counter>
+    <Instagram></Instagram>
+
+    
+  
   </div>
 )
     
